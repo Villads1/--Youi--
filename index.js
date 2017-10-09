@@ -31,7 +31,7 @@ var jokes = [
 ];
 
 var penis = [
-    "Sorry to say but womans cant do this test :(",
+    "Sorry to say but women can't do this test :(",
     "Your penis is 1 inches long",
     "Your penis is 2 inches long",
     "Your penis is 3 inches long",
@@ -113,7 +113,7 @@ bot.on("ready", () => {
   console.log(`Bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels of ${bot.guilds.size} guilds.`); 
   // Example of changing the bot's playing game to something useful. `client.user` is what the
   // docs refer to as the "ClientUser".
-  bot.user.setGame(` -help | ${bot.guilds.size} servers | v1.0.0`);
+  bot.user.setGame(` -help | ${bot.guilds.size} servers |V1`);
 });
 
 
@@ -169,7 +169,7 @@ bot.on("message", function(message) {
         */
         case "play":
             if (!args[1]) {
-                message.channel.send("please provide a link");
+                message.channel.send("Please provide a link");
             return;
             }
 
