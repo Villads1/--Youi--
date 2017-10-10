@@ -153,7 +153,7 @@ bot.on("message", function(message) {
             var embed = new Discord.RichEmbed()
             .addField("Prefix", "-")
             .addField("Commands", "14")
-            .addField("Servers", "19 (AutoUpdate soon)")
+            .addField("Servers", "22 (AutoUpdate soon)")
             .addField("Creator/Owner", "Enis")
             .setThumbnail(message.author.avatarURL)
             message.channel.send(embed);
