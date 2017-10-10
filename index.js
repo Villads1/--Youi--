@@ -63,10 +63,6 @@ var penis = [
     "Your penis is 29 inches long",
     "Your penis is 30 inches long",
     "YOU GOT THE GOLDEN PENIS YOUR PENIS IS 3000 INCHES LONG!"
-  
-
-
-
 ];
 
 var name = [
