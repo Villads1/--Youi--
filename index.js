@@ -31,7 +31,38 @@ var jokes = [
 ];
 
 var penis = [
-    "Sorry to say but women can't do this test :("
+    "Sorry to say but women can't do this test :(",
+    "Your penis is 1 inches long",
+    "Your penis is 2 inches long",
+    "Your penis is 3 inches long",
+    "Your penis is 4 inches long",
+    "Your penis is 5 inches long",
+    "Your penis is 6 inches long",
+    "Your penis is 7 inches long",
+    "Your penis is 8 inches long",
+    "Your penis is 9 inches long",
+    "Your penis is 10 inches long",
+    "Your penis is 11 inches long",
+    "Your penis is 12 inches long",
+    "Your penis is 13 inches long",
+    "Your penis is 14 inches long",
+    "Your penis is 15 inches long",
+    "Your penis is 16 inches long",
+    "Your penis is 17 inches long",
+    "Your penis is 18 inches long",
+    "Your penis is 19 inches long",
+    "Your penis is 20 inches long",
+    "Your penis is 21 inches long",
+    "Your penis is 22 inches long",
+    "Your penis is 23 inches long",
+    "Your penis is 24 inches long",
+    "Your penis is 25 inches long",
+    "Your penis is 26 inches long",
+    "Your penis is 27 inches long",
+    "Your penis is 28 inches long",
+    "Your penis is 29 inches long",
+    "Your penis is 30 inches long",
+    "YOU GOT THE GOLDEN PENIS YOUR PENIS IS 3000 INCHES LONG!"
   
 
 
