@@ -31,8 +31,8 @@ var jokes = [
 ];
 
 var penis = [
-    "Sorry to say but women can't do this test :(",
-    "Your penis is 1 inches long",
+    "Sorry to say but women can't do this test :("
+   /* "Your penis is 1 inches long",
     "Your penis is 2 inches long",
     "Your penis is 3 inches long",
     "Your penis is 4 inches long",
@@ -62,7 +62,7 @@ var penis = [
     "Your penis is 28 inches long",
     "Your penis is 29 inches long",
     "Your penis is 30 inches long",
-    "YOU GOT THE GOLDEN PENIS YOUR PENIS IS 3000 INCHES LONG!",
+    "YOU GOT THE GOLDEN PENIS YOUR PENIS IS 3000 INCHES LONG!", */
 
 
 
