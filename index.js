@@ -207,7 +207,7 @@ bot.on("message", function(message) {
         .addField("Botinfo", "Gives information about the bot")
         .addField("8ball", "Ask 8ball an question and it will answer")
         .addField("Penis", "Your penis is (Random number) inches long. (2Secrets)")
-        .addField("Joke", "Sends an random joke")
+        .addField("Joke", "Sends a random joke (Warning shit jokes)")
         .addField("Name", "Gives you an random name. (Under upgrade)")
         .addField("Ping", "Pong!")
         .addField("Play", "Plays or queue the url you linked")
