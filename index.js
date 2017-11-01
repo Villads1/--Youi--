@@ -92,7 +92,8 @@ var fortunes = [
     "Yes",
     "No",
     "Maybe",
-    "No one knows"
+    "No one knows",
+    "All the time!"
 ];
 
 var bot = new Discord.Client();
