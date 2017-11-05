@@ -27,7 +27,8 @@ var jokes = [
     "Q: Why can't a blonde dial 911?     A: She can't find the eleven.",
     "Q: Can a kangaroo jump higher than a house?     A: Of course, a house doesn’t jump at all.",
     "Loading...",
-    "Knock, Knock. Who’s there? Leaf! Leaf who? Leaf the house, you’re not the owner anymore!"
+    "Knock, Knock. Who’s there? Leaf! Leaf who? Leaf the house, you’re not the owner anymore!",
+    "Did you guys notice that Awesome ends with "Me" Cause im Awesome."
 ];
 
 var penis = [
